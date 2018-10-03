@@ -5,5 +5,5 @@ In this notebook, I cover the following topics:
 - Creating Models
 - Using optimizers
 - Datasets and dataloaders
-- Creating Linear, Convolution, RNN models
+- Creating Linear, Convolutional, RNN models
 - Using embedding
