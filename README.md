@@ -7,3 +7,4 @@ In this notebook, I cover the following topics:
 - Datasets and dataloaders
 - Creating Linear, Convolutional, RNN models
 - Using embedding
+- Simple text generation
